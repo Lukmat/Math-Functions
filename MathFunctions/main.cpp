@@ -6,11 +6,11 @@ using namespace std;
 int main()
 {
 
-    cout<<biggestCommonDivider(3,6)<<endl;
-    cout<<factorial(5)<<endl;
-    cout<<fibonacci(8)<<endl;
-    cout<<areaOfTriangle(5,6,3,4,4,3)<<endl;
-    pascalsTriangle(5);
+    cout<<"The biggest common divider is: "<<biggestCommonDivider(3,6)<<endl;
+    cout<<"The Factorial of 5 is: "<<factorial(5)<<endl;
+    cout<<"The eight number of the fibonacci sequence is: "<<fibonacci(8)<<endl;
+    cout<<"The area of the triangle is: "<<areaOfTriangle(5,6,3,4,4,3)<<endl;
+    cout<<"Pascals triangle: "<<endl; pascalsTriangle(5);
 
     return 0;
 }
