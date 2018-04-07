@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int biggestCommonDivider(int a,int b)
+int greatestCommonDivisor(int a,int b)
 {
     int t;
   while(b)
