@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1523127352 source:c:\users\lukasz\desktop\mathfunctions\main.cpp
+	<iostream>
+	"MathFunctions.h"
+
+1523124964 c:\users\lukasz\desktop\mathfunctions\mathfunctions.h
+
+1523124964 source:c:\users\lukasz\desktop\mathfunctions\mathfunctions.cpp
+	<iostream>
+
