@@ -2,7 +2,7 @@
 
 # 5 Math Functions
 
-#####  int greatestCommonDivisor(int firstNumber, int secondNumber) - Calculates the greatest common divisor of two numbers 
+#####  int greatestCommonDivisor(int firstNumber, int secondNumber) - calculates the greatest common divisor of two numbers 
 #####  int factorial(int n) - displays factorial of n 
 #####  int fibonacci(int n) - displays the nth number of the fibonacci sequence 
 #####  double areaOfTriangle(double Ax, double Ay, double Bx, double By, double Cx, double Cy) - calculates the area of a triangle from   coordiantes
